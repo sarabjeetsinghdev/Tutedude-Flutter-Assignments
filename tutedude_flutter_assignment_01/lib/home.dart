@@ -5,7 +5,7 @@ import 'dart:async';
 
 /// Creating actual home page Statefully
 /// This widget displays a local image and a network image with a loading indicator and error handling.
-class Home extends StatefulWidget {
+class Home extends StatefulWidget{
   const Home({super.key});
 
   @override
